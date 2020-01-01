@@ -29,3 +29,8 @@ Click in three points:
 - Supports lazy loading of subcommands at runtime
 
 https://github.com/pallets/click/
+
+## Copy As Markdown
+This is a Chrome Extension used to copy the element in current page as markdown format.
+
+https://github.com/JohnnyFee/CopyAsMarkdown
