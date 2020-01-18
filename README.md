@@ -39,3 +39,10 @@ https://github.com/pallets/click/
 This is a Chrome Extension used to copy the element in current page as markdown format.
 
 https://github.com/JohnnyFee/CopyAsMarkdown
+
+## Learning Resources
+
+### Programming books
+Books related to programming.
+
+https://github.com/sjyuan-cc/programming-books
