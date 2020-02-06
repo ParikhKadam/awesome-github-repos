@@ -32,6 +32,12 @@ Click in three points:
 
 https://github.com/pallets/click/
 
+### h5py
+HDF5 for Python -- The h5py package is a Pythonic interface to the HDF5 binary data format.
+
+https://github.com/h5py/h5py
+
+Tutorial link - https://www.christopherlovell.co.uk/blog/2016/04/27/h5py-intro.html
 
 ## Node
 
