@@ -39,6 +39,16 @@ https://github.com/h5py/h5py
 
 Tutorial link - https://www.christopherlovell.co.uk/blog/2016/04/27/h5py-intro.html
 
+### pyce
+Encrypted Python Execution
+
+https://github.com/soroco/pyce
+
+### pyconcrete
+Protect your python script, encrypt it as .pye and decrypt when import it
+
+https://github.com/Falldog/pyconcrete
+
 ## Node
 
 ### Copy As Markdown
