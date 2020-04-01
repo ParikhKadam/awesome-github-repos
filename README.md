@@ -49,6 +49,13 @@ Protect your python script, encrypt it as .pye and decrypt when import it
 
 https://github.com/Falldog/pyconcrete
 
+## C++
+
+### CSV Writer
+Simple c++ csv writer class
+
+https://github.com/ParikhKadam/CSVWriter
+
 ## Node
 
 ### Copy As Markdown
